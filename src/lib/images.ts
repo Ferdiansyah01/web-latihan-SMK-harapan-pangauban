@@ -1,0 +1,45 @@
+﻿/**
+ * Kumpulan foto dokumenter LOKAL (diunduh ke public/images/, gratis dipakai).
+ * Bertema vokasi: kampus, lab, bengkel, industri, perpustakaan.
+ * Semua path lokal sehingga tidak bergantung koneksi ke CDN luar.
+ */
+
+export const IMG = {
+  kampus: "/images/foto-kampus.jpg",
+  kampusLama: "/images/foto-kampus.jpg",
+  labKomputer: "/images/foto-labKomputer.jpg",
+  kode: "/images/foto-kode.jpg",
+  kodeLaptop: "/images/foto-laptopKode.jpg",
+  laptopGelap: "/images/foto-laptopGelap.jpg",
+  laptopKode: "/images/foto-laptopKode.jpg",
+  sirkuit: "/images/foto-sirkuit.jpg",
+  robot: "/images/foto-robot.jpg",
+  server: "/images/foto-server.jpg",
+  industri: "/images/foto-industri.jpg",
+  insinyur: "/images/foto-insinyur.jpg",
+  insinyurLapangan: "/images/foto-insinyurLapangan.jpg",
+  mesinMobil: "/images/foto-mesinMobil.jpg",
+  wisuda: "/images/foto-kampusLama.jpg",
+  wisudaTopi: "/images/foto-wisudaTopi.jpg",
+  wisudaGedung: "/images/foto-wisudaTopi.jpg",
+  lulusan: "/images/foto-lulusan.jpg",
+  siswaLaptop: "/images/foto-siswaLaptop.jpg",
+  kelas: "/images/foto-kelas.jpg",
+  kelasTablet: "/images/foto-kelasTablet.jpg",
+  aula: "/images/foto-aula.jpg",
+  rapat: "/images/foto-rapat.jpg",
+  tim: "/images/foto-tim.jpg",
+  timLaptop: "/images/foto-timLaptop.jpg",
+  kerjaTim: "/images/foto-kerjaTim.jpg",
+  presentasi: "/images/foto-presentasi.jpg",
+  perpusRak: "/images/foto-perpusRak.jpg",
+  perpusGedung: "/images/foto-perpusGedung.jpg",
+  labSains: "/images/foto-labSains.jpg",
+  desain: "/images/foto-desain.jpg",
+  kameraFilm: "/images/foto-kameraFilm.jpg",
+  produksiFilm: "/images/foto-produksiFilm.jpg",
+  stadion: "/images/foto-stadion.jpg",
+  olahraga: "/images/foto-olahraga.jpg",
+  bisnis: "/images/foto-bisnis.jpg",
+  siber: "/images/foto-siber.jpg",
+};
